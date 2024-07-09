@@ -6,8 +6,8 @@
 <RootNamespace>HelloWorldApp</RootNamespace>
 </PropertyGroup>
  
-<ItemGroup>
+<!-- <ItemGroup>
 <Compile Include="Program.cs" />
-</ItemGroup>
+</ItemGroup> -->
  
 </Project>
